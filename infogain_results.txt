@@ -1,0 +1,4 @@
+Outlook : 0.247
+Temperature : 0.029
+Humidity : 0.152
+Wind : 0.048
